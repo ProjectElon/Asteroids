@@ -11,5 +11,7 @@ Cloning The Classic 1979 Asteroids Game
 - Vector Maths.
 - Entity System And Resource Management.
 - How To Finish A Game (It Was My first Real Game Yes).
+
+GamePlay : https://www.youtube.com/watch?v=YUO4bIQASQE
  
 ![PROJECT IMAGE](https://github.com/ProjectElon/Asteroids/blob/master/images/Screenshot.PNG)
