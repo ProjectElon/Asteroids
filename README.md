@@ -10,4 +10,4 @@ Cloning The Classic 1979 Asteroids Game
 - Vector Maths
 - Entity System And Resource Management
 
-![PROJECT IMAGE](https://github.com/ProjectElon/Asteroids/tree/master/images/ScreenShot.PNG)
+![PROJECT IMAGE](https://github.com/ProjectElon/Asteroids/blob/master/images/Screenshot.PNG)
