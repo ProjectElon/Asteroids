@@ -2,7 +2,7 @@
 
 Cloning The Classic 1979 Asteroids Game
 
-### What I Learned :
+### What I've Learned :
 
 - SDL (A Cross Platform Library For Simple 2D Renderering And Opening A Window).
 - Events.
